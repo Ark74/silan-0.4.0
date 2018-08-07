@@ -1,3 +1,3 @@
-shlibs:Depends=libavcodec57 (>= 7:3.2.12) | libavcodec-extra57 (>= 7:3.2.12), libavformat57 (>= 7:3.2.12), libavutil55 (>= 7:3.2.12), libc6 (>= 2.14), libsndfile1 (>= 1.0.20)
+shlibs:Depends=libavcodec56 (>= 6:11~beta1) | libavcodec-extra-56 (>= 6:11.12), libavformat56 (>= 6:11~beta1), libavutil54 (>= 6:11~beta1), libc6 (>= 2.14), libsndfile1 (>= 1.0.20)
 misc:Depends=
 misc:Pre-Depends=

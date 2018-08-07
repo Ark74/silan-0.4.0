@@ -2,8 +2,8 @@ Package: silan
 Version: 0.4.0-1
 Architecture: amd64
 Maintainer: Kyle Robbertze <krobbertze@gmail.com>
-Installed-Size: 48
-Depends: libavcodec57 (>= 7:3.2.12) | libavcodec-extra57 (>= 7:3.2.12), libavformat57 (>= 7:3.2.12), libavutil55 (>= 7:3.2.12), libc6 (>= 2.14), libsndfile1 (>= 1.0.20)
+Installed-Size: 69
+Depends: libavcodec56 (>= 6:11~beta1) | libavcodec-extra-56 (>= 6:11.12), libavformat56 (>= 6:11~beta1), libavutil54 (>= 6:11~beta1), libc6 (>= 2.14), libsndfile1 (>= 1.0.20)
 Section: sound
 Priority: optional
 Homepage: https://github.com/x42/silan/

@@ -19,14 +19,8 @@ Changes:
    * Bump copyright years
    * Remove --parallel from rules as it is unnecessary
 Checksums-Sha1:
- f9ecc7c6a6ead2bfdf1c4778a5f61d1233d01ca6 44724 silan-dbgsym_0.4.0-1_amd64.deb
- 371bab6ace3ea5b5e183830a324973661ba56bd0 7206 silan_0.4.0-1_amd64.buildinfo
- f8c76d8791ff145136d11ca0873d1da2c81b1dd3 17252 silan_0.4.0-1_amd64.deb
+ 49c6182f8148b111565b682c1006a7ea568bb734 16922 silan_0.4.0-1_amd64.deb
 Checksums-Sha256:
- 522b89718c993258814f02a8175453c87a1aaee4c318ad3fa4c5831ce749eb44 44724 silan-dbgsym_0.4.0-1_amd64.deb
- a3eb1d07df7f28b1ac5a63b48f981ee0bee66cd98d02d9c3cb9c298689dc674e 7206 silan_0.4.0-1_amd64.buildinfo
- 35975468e8b076760e304ccdf5bf8676a66122ca910930860cc33bd6d6017f62 17252 silan_0.4.0-1_amd64.deb
+ 164005e9ff9e2d037dc869cc7b229527b9d9f08591892545d68380078ed71216 16922 silan_0.4.0-1_amd64.deb
 Files:
- 6c52dd2c7d53b0f8cda78fbd471aed41 44724 debug extra silan-dbgsym_0.4.0-1_amd64.deb
- 5f486bc048ef5d247839c8827f42b6fe 7206 sound optional silan_0.4.0-1_amd64.buildinfo
- 1c7c95b506001be1b352f6ce8982145a 17252 sound optional silan_0.4.0-1_amd64.deb
+ f36db33b8f5010e46100fe1e1ced4ee3 16922 sound optional silan_0.4.0-1_amd64.deb
