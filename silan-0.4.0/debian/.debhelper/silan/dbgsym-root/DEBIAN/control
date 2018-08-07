@@ -1,0 +1,13 @@
+Package: silan-dbgsym
+Source: silan
+Version: 0.4.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Kyle Robbertze <krobbertze@gmail.com>
+Installed-Size: 61
+Depends: silan (= 0.4.0-1)
+Section: debug
+Priority: extra
+Homepage: https://github.com/x42/silan/
+Description: Debug symbols for silan
+Build-Ids: 409b3eb475580eaafcbf1a63995c5b6f4947685b
